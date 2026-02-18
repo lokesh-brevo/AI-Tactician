@@ -1,0 +1,72 @@
+{
+  "all_customers": {
+    "total_eligible": 48500,
+    "tiers": {
+      "high_value": {
+        "count": 2425,
+        "pct": 5.0,
+        "avg_ltv": 820.00,
+        "avg_orders": 8.3,
+        "avg_aov": 135.00,
+        "top_categories": ["audio", "wearables"],
+        "channels_opted_in": {"email": 2425, "whatsapp": 2100, "sms": 1950},
+        "avg_engagement_score": 0.82
+      },
+      "mid_value": {
+        "count": 9700,
+        "pct": 20.0,
+        "avg_ltv": 340.00,
+        "avg_orders": 3.1,
+        "avg_aov": 95.00,
+        "top_categories": ["accessories", "audio"],
+        "channels_opted_in": {"email": 9700, "whatsapp": 5200, "sms": 6500},
+        "avg_engagement_score": 0.54
+      },
+      "standard": {
+        "count": 36375,
+        "pct": 75.0,
+        "avg_ltv": 95.00,
+        "avg_orders": 1.2,
+        "avg_aov": 65.00,
+        "top_categories": ["accessories"],
+        "channels_opted_in": {"email": 36375, "whatsapp": 7200, "sms": 22000},
+        "avg_engagement_score": 0.21
+      }
+    }
+  },
+  "no_purchase_90d": {
+    "total_eligible": 8200,
+    "tiers": {
+      "high_value": {
+        "count": 410,
+        "pct": 5.0,
+        "avg_ltv": 820.00,
+        "avg_orders": 8.3,
+        "avg_aov": 135.00,
+        "top_categories": ["audio", "wearables"],
+        "channels_opted_in": {"email": 410, "whatsapp": 380, "sms": 350},
+        "avg_engagement_score": 0.82
+      },
+      "mid_value": {
+        "count": 1640,
+        "pct": 20.0,
+        "avg_ltv": 340.00,
+        "avg_orders": 3.1,
+        "avg_aov": 95.00,
+        "top_categories": ["accessories", "audio"],
+        "channels_opted_in": {"email": 1640, "whatsapp": 890, "sms": 1100},
+        "avg_engagement_score": 0.54
+      },
+      "standard": {
+        "count": 6150,
+        "pct": 75.0,
+        "avg_ltv": 95.00,
+        "avg_orders": 1.2,
+        "avg_aov": 65.00,
+        "top_categories": ["accessories"],
+        "channels_opted_in": {"email": 6150, "whatsapp": 1200, "sms": 3800},
+        "avg_engagement_score": 0.21
+      }
+    }
+  }
+}

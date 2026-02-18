@@ -1,0 +1,31 @@
+{
+  "automations": [
+    {
+      "id": "auto_001",
+      "name": "Welcome Series",
+      "trigger": "contact_created",
+      "status": "active",
+      "steps": 4,
+      "contacts_in_flow": 1200,
+      "avg_completion_rate": 0.68
+    },
+    {
+      "id": "auto_002",
+      "name": "Post-Purchase Follow-up",
+      "trigger": "order_completed",
+      "status": "active",
+      "steps": 3,
+      "contacts_in_flow": 800,
+      "avg_completion_rate": 0.74
+    },
+    {
+      "id": "auto_003",
+      "name": "Cart Abandonment",
+      "trigger": "cart_abandoned",
+      "status": "active",
+      "steps": 2,
+      "contacts_in_flow": 350,
+      "avg_completion_rate": 0.45
+    }
+  ]
+}

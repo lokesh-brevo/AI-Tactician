@@ -1,0 +1,51 @@
+{
+  "campaigns": [
+    {
+      "id": "camp_001",
+      "name": "January Flash Sale",
+      "type": "email",
+      "sent_at": "2026-01-15T10:00:00Z",
+      "audience_size": 35000,
+      "open_rate": 0.28,
+      "click_rate": 0.045,
+      "conversion_rate": 0.018,
+      "revenue": 12450.00,
+      "subject_line": "24 Hours Only: Up to 40% Off Everything"
+    },
+    {
+      "id": "camp_002",
+      "name": "New Arrivals - ProBuds Ultra",
+      "type": "email",
+      "sent_at": "2026-01-22T14:00:00Z",
+      "audience_size": 48000,
+      "open_rate": 0.31,
+      "click_rate": 0.052,
+      "conversion_rate": 0.022,
+      "revenue": 18900.00,
+      "subject_line": "Meet ProBuds Ultra — Your Next Favorite Sound"
+    },
+    {
+      "id": "camp_003",
+      "name": "Valentine's Gift Guide",
+      "type": "email",
+      "sent_at": "2026-02-05T09:00:00Z",
+      "audience_size": 42000,
+      "open_rate": 0.26,
+      "click_rate": 0.041,
+      "conversion_rate": 0.015,
+      "revenue": 9800.00,
+      "subject_line": "The Perfect Tech Gift for Your Valentine"
+    },
+    {
+      "id": "camp_004",
+      "name": "Win-Back SMS Blast",
+      "type": "sms",
+      "sent_at": "2025-12-10T11:00:00Z",
+      "audience_size": 5200,
+      "click_rate": 0.14,
+      "conversion_rate": 0.032,
+      "revenue": 4200.00,
+      "message_preview": "We miss you! Come back for 20% off..."
+    }
+  ]
+}

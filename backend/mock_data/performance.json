@@ -1,0 +1,25 @@
+{
+  "period": "2026-01-17 to 2026-02-17",
+  "summary": {
+    "campaigns_sent": 8,
+    "total_recipients": 210000,
+    "avg_open_rate": 0.27,
+    "avg_click_rate": 0.043,
+    "total_revenue": 54350.00,
+    "best_performer": {
+      "name": "New Arrivals - ProBuds Ultra",
+      "open_rate": 0.31,
+      "revenue": 18900.00
+    },
+    "worst_performer": {
+      "name": "Valentine's Gift Guide",
+      "open_rate": 0.26,
+      "revenue": 9800.00
+    }
+  },
+  "trends": {
+    "open_rate_trend": "stable",
+    "click_rate_trend": "improving",
+    "revenue_trend": "improving"
+  }
+}
